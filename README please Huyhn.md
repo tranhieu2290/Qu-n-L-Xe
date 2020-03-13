@@ -1,12 +1,3 @@
 # Qu-n-L-Xe
 Quản lý xe ra vào
-Hiện tại thì số người sử dụng phương tiện đi lại ngày càng cao, và tất nhiên là cần chỗ gửi xe thêm nữa là cần phải bảo đảm an toàn an ninh, nên cần phải ra một ứng dụng giúp các chung cư hay bãi đỗ xe để kiểm soát xe của người gửi xe.
-Ứng dụng thiết kế gồm như sau
-Đăng nhập tài khoản nhân viên.
-Nhập biển số xe.
-Xóa biển số xe.
-Chụp ảnh và xuất vé.
-Ứng dụng hoạt động
-Khi xe đến sẽ tự động chụp ảnh biển số xe và in ra vé số mặc định.
-Đến khi chủ xe quay lại lấy lại xe và đưa vé số xóa xe trên hệ thống lưu trữ đi.
-
+Quản lý xe ra và vào bãi gửi xe hiện tại số người sử dụng phương tiện giao thông ngày càng cao.. và tìm chỗ gửi xe đảm bảo an ninh là một điều khó đối với 1 số nơi đông dân cư ví dụ như : Hà Nội , TP Hồ Chí Minh , Đà Nẵng ...... tại mỗi thành phố khi xe ra vào chờ qua hệ thống máy quét nhận diện xe trả thẻ khiến thời gian lâu thêm dẫn đến ùn tắc giao thông ở các bãi gửi xe.. Và điều quan trọng là thiết bị điện thoại thông minh thì đa số đều được mọi người sử dụng rất nhiều.. chính vì vậy nay nhóm em tìm hiểu và làm ra ứng dụng quản lý bãi gửi xe giúp quản lý xe ra vào dễ hơn có thể làm bớt thời gian các xe ra vào dừng đỗ chờ lấy vé và dễ sử dụng để cho bác bảo vệ dễ quản lý xe hơn. Tromg ứng ụng quản lý bãi gửi xe này gồm có tài khoản đăng nhập có thể quản lý được ai là người tiếp nhận xe hoặc khi trả xe ai là người nhận lại vé. Khi xe vào có nhập biển số xe chụp biển số xe và ngày giờ xe vào - khi xe ra chủ xe trả vé sẽ xóa biển số xe xóa ảnh in ra hóa đơn nếu cần hiển thị ngày giờ ra và giá tiền hoặc giá vé.
